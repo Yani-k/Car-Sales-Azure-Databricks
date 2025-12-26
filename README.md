@@ -4,7 +4,8 @@
 
 This project is an end-to-end Azure Data Engineering pipeline designed to implement real-world scenarios using the Medallion architecture. It covers key aspects such as incremental data loading, dimensional modeling (star schema), and handling slowly changing dimensions. The project ensures data governance, validation, audits, and logging, making it production-ready.
 
-<img width="1633" height="934" alt="diagram-export-12-25-2025-11_42_36-PM" src="https://github.com/user-attachments/assets/1fd9b96a-7aea-434d-96a1-bccd5110d456" />
+
+<img width="1413" height="623" alt="diagram-export-12-26-2025-12_29_10-AM" src="https://github.com/user-attachments/assets/30018988-a85a-4dd9-826b-34bb26bd5bdb" />
 
 
 ## Key Features
