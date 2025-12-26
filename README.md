@@ -4,6 +4,10 @@
 
 This project is an end-to-end Azure Data Engineering pipeline designed to implement real-world scenarios using the Medallion architecture. It covers key aspects such as incremental data loading, dimensional modeling (star schema), and handling slowly changing dimensions. The project ensures data governance, validation, audits, and logging, making it production-ready.
 
+<img width="975" height="563" alt="image" src="https://github.com/user-attachments/assets/947d3db9-61f2-4a06-830a-338ca2e34427" />
+
+
+
 ## Key Features
 
 - **Azure Tech Stack**: Azure Data Lake, Azure SQL Database, Azure Data Factory, Azure Databricks, Unity Catalog, and Managed Identities.
